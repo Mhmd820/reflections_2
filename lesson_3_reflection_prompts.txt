@@ -31,4 +31,5 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    Fill in your answer here : When you working with others it is better to make a separate branch to keep the master branch working well and to avoid conflicts as much as possible but it is more complicated in merging all changes into the master branch. 
+    While in working directly with the master branch it is easier in merging and it would be better in situations when there is only a few changes. 
